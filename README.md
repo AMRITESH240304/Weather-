@@ -15,4 +15,4 @@ This Weather App is a simple web application that allows users to search for the
 1. Clone the repository:
  ` git clone https://github.com/your-username/Weather.git`
 2. Open the `index.html` file in your web browser.
-![WhatsApp Image 2023-07-14 at 17 01 40](https://github.com/AMRITESH240304/Weather/assets/113977239/690589f6-e387-4535-93dc-423289078669)
+![weather](https://github.com/AMRITESH240304/Weather-/assets/113977239/9397d4a3-8ca1-4b7c-9ede-f4c8ad234476)
