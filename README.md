@@ -2,6 +2,9 @@
 
 This Weather App is a simple web application that allows users to search for the weather information of a specific city. It retrieves data from the OpenWeatherMap API and displays the temperature, humidity, and other relevant details.
 
+- Have a look to the website
+`https://weather-web-pied.vercel.app/`
+
 
 ## Features
 
